@@ -3,6 +3,7 @@
 ## Sobre mi
 Tengo 20 años soy de la costa, vivi toda mi niñes y adolecencia en Santa Teresita y me vine a vivir a Buenos Aires a estudiar,siempre fui muy activo, no puedo estar sin hacer nada, lo que me llevo probar nuevos hobbies, algunos duraban meses otros años depende lo que me llamara mas la atencion, los que mas tiempo me duraron fue el malabarismo, andar en skate, surfear e ir al gimnasio que seria mi hobbie actual.
 
+![Mi foto](MiFoto.jpg "Foto")
 ## ¿Porque Sistemas?
 Me encanta coodear, no lo haria para pasar mi tiempo libre, pero cuando me toca hacerlo lo disfruto mucho, fui a una tecnica y me recibi de tecnico en programacion, medio pelo igual porque nos agarro la pandemia los dos ultimos años, me quede con ganas de seguir aprendiendo y como la tecnicatura ya la tenia opte por una ingenieria, me iba a ir por informatica, pero al ver que Sistemas no era solo coodear sino tener un rol mas administrativo la elegi.
 
